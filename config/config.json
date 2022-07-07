@@ -1,0 +1,17 @@
+{
+  "CONTRACT_ADDRESS": "0xB41D4D1713111e85b0880a6Bb2Ea4E6c28E57b55",
+  "SCAN_LINK": "https://etherscan.io/token/0xB41D4D1713111e85b0880a6Bb2Ea4E6c28E57b55",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Warrior Crox",
+  "SYMBOL": "CROX",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 156243,
+  "MARKETPLACE": "Opeansea",
+  "SHOW_BACKGROUND": true
+}
